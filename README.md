@@ -1,9 +1,9 @@
 # Ethereal-Full-Edition
 This is Ethereal Full Edition, all of the mods needed, for faster PCs. Minecraft Modpack, I did not make any of these mods.
 
-1. Mod installation instruction. (Fabric 1.17.1)
+1. Mod installation instruction. (Fabric)
 2. Download fabric installer. https://fabricmc.net/use/
-3. Start vanilla minecraft 1.17.1
+3. Start vanilla minecraft (version you want to download)
 4. Once minecraft is loaded, close it. (This ensures that a minecraft profile has been initialized.)
 5. Install fabric with the downloaded installer, make sure the version is set to 1.17.1 and press install.
 6. When that's done, start fabric minecraft in the launcher.
