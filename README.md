@@ -1,5 +1,11 @@
 # Ethereal-Full-Edition
-This is Ethereal Full Edition, all of the mods needed, for faster PCs. Minecraft Modpack, I did not make any of these mods.
+This is Ethereal Full Edition, all of the mods needed, for faster PCs. Minecraft Modpack.
+
+The Ethereal Minecraft Modpack is a modpack that aims to increases performance and quality of life along with some other fun mods such as simple voice chat. 
+The Ethereal Basic Edition is a stripped down version of the Ethereal Full Edition for very slow computers, it has the same basic compatabilities of the full edition but does not have some of the larger, but uneeded mods, such as Xaero's Minimap, therefore making it faster.
+The Ethereal Full Edition has all the mods that this modpack offers. Most computers can run this.
+These to versions of the Ethereal Modpack are built to be compatable with each other, since most of the mods included are client-sided. Only some of the mods are needed for a minecraft server.
+Planned Addition(Possibly?): Computer Craft Tweaked : https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
 
 1. Mod installation instruction. (Fabric)
 2. Download fabric installer. https://fabricmc.net/use/
@@ -10,3 +16,32 @@ This is Ethereal Full Edition, all of the mods needed, for faster PCs. Minecraft
 7. Once minecraft is loaded, close it. (This ensures that a minecraft profile has been initialized and that the correct folders are in place.)
 8. When that's done, put this file into the mod folder. Unzip it by right clicking and press extract all.
 9. Now start fabric minecraft, your mods should be loaded. Enjoy!
+
+MOD SOURCES:
++++ Basic Edition Mods +++
+better biome blend: https://www.curseforge.com/minecraft/mc-mods/better-biome-blend
+cull leaves: https://www.curseforge.com/minecraft/mc-mods/cull-leaves
+entity culling: https://www.curseforge.com/minecraft/mc-mods/entityculling
+fabric api: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
+hydrogen: https://github.com/CaffeineMC/hydrogen-fabric/releases
+iris: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+lithium: https://www.curseforge.com/minecraft/mc-mods/lithium
+logical zoom: https://www.curseforge.com/minecraft/mc-mods/logical-zoom 
+mod menu: https://www.curseforge.com/minecraft/mc-mods/modmenu
+smoothboot: https://www.curseforge.com/minecraft/mc-mods/smooth-boot
+sodium: https://www.curseforge.com/minecraft/mc-mods/sodium
+starlight: https://www.curseforge.com/minecraft/mc-mods/starlight
+simple voice chat: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+No Telemetry: https://github.com/kb-1000/no-telemetry
+
++++ Full Edition Mods +++
+ash: https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
+freelook: https://www.curseforge.com/minecraft/mc-mods/freelook-fabric
+inventory profiles next: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+isometric renders: https://www.curseforge.com/minecraft/mc-mods/isometric-renders
+Skin swapper: https://www.curseforge.com/minecraft/mc-mods/skin-swapper
+Xaero's Minimap: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+
++++ Changelog +++
+12.2.2021 | Changelog section added in README.
+12.2.2021 | Proper mod documentation added.
