@@ -19,29 +19,30 @@ Planned Addition(Possibly?): Computer Craft Tweaked : https://www.curseforge.com
 
 MOD SOURCES:
 +++ Basic Edition Mods +++
-better biome blend: https://www.curseforge.com/minecraft/mc-mods/better-biome-blend
-cull leaves: https://www.curseforge.com/minecraft/mc-mods/cull-leaves
-entity culling: https://www.curseforge.com/minecraft/mc-mods/entityculling
-fabric api: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
-hydrogen: https://github.com/CaffeineMC/hydrogen-fabric/releases
-iris: https://www.curseforge.com/minecraft/mc-mods/irisshaders
-lithium: https://www.curseforge.com/minecraft/mc-mods/lithium
-logical zoom: https://www.curseforge.com/minecraft/mc-mods/logical-zoom 
-mod menu: https://www.curseforge.com/minecraft/mc-mods/modmenu
-smoothboot: https://www.curseforge.com/minecraft/mc-mods/smooth-boot
-sodium: https://www.curseforge.com/minecraft/mc-mods/sodium
-starlight: https://www.curseforge.com/minecraft/mc-mods/starlight
-simple voice chat: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
-No Telemetry: https://github.com/kb-1000/no-telemetry
+1. better biome blend: https://www.curseforge.com/minecraft/mc-mods/better-biome-blend
+2. cull leaves: https://www.curseforge.com/minecraft/mc-mods/cull-leaves
+3. entity culling: https://www.curseforge.com/minecraft/mc-mods/entityculling
+3. fabric api: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
+4. hydrogen: https://github.com/CaffeineMC/hydrogen-fabric/releases
+5. iris: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+6. lithium: https://www.curseforge.com/minecraft/mc-mods/lithium
+7. logical zoom: https://www.curseforge.com/minecraft/mc-mods/logical-zoom 
+8. mod menu: https://www.curseforge.com/minecraft/mc-mods/modmenu
+9. smoothboot: https://www.curseforge.com/minecraft/mc-mods/smooth-boot
+10. sodium: https://www.curseforge.com/minecraft/mc-mods/sodium
+11. starlight: https://www.curseforge.com/minecraft/mc-mods/starlight
+12. simple voice chat: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+13. No Telemetry: https://github.com/kb-1000/no-telemetry
 
-+++ Full Edition Mods +++
-ash: https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
-freelook: https://www.curseforge.com/minecraft/mc-mods/freelook-fabric
-inventory profiles next: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
-isometric renders: https://www.curseforge.com/minecraft/mc-mods/isometric-renders
-Skin swapper: https://www.curseforge.com/minecraft/mc-mods/skin-swapper
-Xaero's Minimap: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
++++ Full Edition Mods +++ (Added to Basic Edition Mods)
+14. ash: https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
+15. freelook: https://www.curseforge.com/minecraft/mc-mods/freelook-fabric
+16. inventory profiles next: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+17. isometric renders: https://www.curseforge.com/minecraft/mc-mods/isometric-renders
+18. Skin swapper: https://www.curseforge.com/minecraft/mc-mods/skin-swapper
+19. Xaero's Minimap: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 
 +++ Changelog +++
 12.2.2021 | Changelog section added in README.
 12.2.2021 | Proper mod documentation added.
+12.4.2021 | Cleaned up README a bit.
