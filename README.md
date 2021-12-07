@@ -18,7 +18,7 @@ Planned Addition(Possibly?): Computer Craft Tweaked : https://www.curseforge.com
 9. Now start fabric minecraft, your mods should be loaded. Enjoy!
 
 MOD SOURCES:
-+++ Basic Edition Mods +++
++++ Full Edition Mods +++
 1. better biome blend: https://www.curseforge.com/minecraft/mc-mods/better-biome-blend
 2. cull leaves: https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 3. entity culling: https://www.curseforge.com/minecraft/mc-mods/entityculling
@@ -33,8 +33,6 @@ MOD SOURCES:
 11. starlight: https://www.curseforge.com/minecraft/mc-mods/starlight
 12. simple voice chat: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 13. No Telemetry: https://github.com/kb-1000/no-telemetry
-
-+++ Full Edition Mods +++ (Added to Basic Edition Mods)
 14. ash: https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
 15. freelook: https://www.curseforge.com/minecraft/mc-mods/freelook-fabric
 16. inventory profiles next: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
@@ -46,3 +44,4 @@ MOD SOURCES:
 12.2.2021 | Changelog section added in README.
 12.2.2021 | Proper mod documentation added.
 12.4.2021 | Cleaned up README a bit.
+12.6.2021 | Cleaned up README a bit more.
